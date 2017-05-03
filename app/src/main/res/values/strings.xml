@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Instaslam</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_legal">Legal</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello home fragment</string>
+
+    <string name="title_activity_media">MediaActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
