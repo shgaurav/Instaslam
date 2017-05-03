@@ -5,7 +5,8 @@ An application that is built to learn about image rendering, tabbed layouts, rec
 - The app has floating action button(FAB) that can be pressed to load images for editing
 - Supports faster rendering of images using Async threads.
 - Support faster rendering by scaling down images that display in the gridview
-asssss
+
 Coming soon in v1.1
 - Use libraries like Picasso for even faster rendering of images (instant display of image on an image
 - User profile page compeleted with user information, profile picture and a recycler view with a gridlayout to show images shared on the      profile.
+- Screenshots of the app added to the readme file.
